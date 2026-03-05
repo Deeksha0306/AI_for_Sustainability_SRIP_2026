@@ -1,0 +1,12 @@
+torch
+torchvision
+geopandas
+rasterio
+scikit-learn
+matplotlib
+seaborn
+folium
+numpy
+pandas
+scipy
+Pillow
